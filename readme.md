@@ -54,7 +54,7 @@ Note - For easy testing, Have already added mock datas on it
 Sample Image
 ![Screenshot](sample.png)
 
-Credentials - adithya/Test@1234
+Credentials - adithya/Test
 
 
 ### What would i do if have more time ?
