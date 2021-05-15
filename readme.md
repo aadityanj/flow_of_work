@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-### Steps to createsuper 
+### Steps to create a superuser
 ```sh
 python manage.py createsuper 
 ````
