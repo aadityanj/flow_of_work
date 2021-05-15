@@ -34,6 +34,11 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
+### Steps to createsuper 
+```sh
+python manage.py createsuper 
+````
+
 For production environments...
 ```sh
 python manage.py runserver --settings=prod.settings.py
@@ -45,7 +50,12 @@ After starting the projects, you can easily test the below apis with the help of
  - http://localhost:8000/api/v1/search_job
  - http://localhost:8000/api/v1/search_skills
 Note - For easy testing, Have already added mock datas on it
+
+Sample Image
+![Screenshot](sample.png)
+
 Credentials - adithya/Test@1234
+
 
 ### What would i do if have more time ?
 1. Convert all skills and jobs in smallercase to reduce duplicates accross the user ( need to think through) 
